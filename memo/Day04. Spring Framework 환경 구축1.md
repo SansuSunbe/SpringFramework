@@ -32,7 +32,7 @@
 	- 
 	- ![](https://i.imgur.com/wEs7p0Z.png)
 
-3. [STS설치하기](https://github.com/spring-attic/toolsuite-distribution/wiki/Spring-Tool-Suite-3
+3. [STS설치하기](https://github.com/spring-attic/toolsuite-distribution/wiki/Spring-Tool-Suite-3)
 	- 스프링하고 스프링 부트의 차이점은 버전에서부터 차이남 
 	- 3 버전 -> 스프링 
 	- 4 버전부터는 부트
