@@ -201,7 +201,7 @@ public class QualifierTests {
 
 - [오라클 설치하러 가기](https://blog.naver.com/coding_music/223575139524)
 - [dbeaver 설치하러 가기](https://blog.naver.com/coding_music/223580774362)
+- 
+![image](https://github.com/user-attachments/assets/646adc01-37be-4cc0-9be3-d8f15c5fdc4d)
 
-![image.png](image.png)
-
-![image.png](image%201.png)
+![image 1](https://github.com/user-attachments/assets/73b1caa9-a59c-4989-a4f5-68e32ae53e00)
