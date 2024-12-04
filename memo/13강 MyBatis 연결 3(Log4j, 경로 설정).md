@@ -11,7 +11,7 @@
 
 - SQL의 결과를 콘솔창에서 편하게 보기 위해 log4j를 설정해준다.
 
-![image.png](image.png)
+![image](https://github.com/user-attachments/assets/9d6ba6c9-48cd-45c7-a74d-294a867a8801)
 
 - Untitled Text File 생성 후
 - 밑의 텍스트를 작성 후 저장 후 파일명을 작성하면 파일이 생성된다.
@@ -20,25 +20,25 @@
 log4jdbc.spylogdelegator.name=net.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator
 ```
 
-![image.png](image%201.png)
+![image 1](https://github.com/user-attachments/assets/4899e45d-a9cf-4974-8af9-1759fd19ebc8)
 
 - root-context에서도 기존의 oracle 계정 설정을 주석 처리 한 후 log4j를 등록한다.
     
-    ![image.png](image%202.png)
+    ![image 2](https://github.com/user-attachments/assets/a169b8ba-153b-4b59-b27a-c3a98f9bac50)
     
 - 실행 후 결과가 더 보기 편하게 나온다.
 
-![image.png](image%203.png)
+![image 3](https://github.com/user-attachments/assets/7ca1e783-5025-4237-a430-f6f18294ad69)
 
 ## log4j.xml
 
 - 콘솔창에 나오는 로그를 출력함
 
-![image.png](image%204.png)
+![image 4](https://github.com/user-attachments/assets/0424ece4-0bbd-44af-8a9e-dda4ade2ad62)
 
 - 다음과 같은 코드를 추가해서 출력되는 로그의 양을 줄일 수 있음
 
-![image.png](image%205.png)
+![image 5](https://github.com/user-attachments/assets/693fc3b5-0537-47e0-833e-5e5913685f89)
 
 # MyBatis_Config_Default_Code
 
@@ -57,5 +57,5 @@ log4jdbc.spylogdelegator.name=net.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator
 ```java
 <property name="객체명" value="classpath:폴더명/**/*실행할xml파일.xml"/>
 ```
+![image 6](https://github.com/user-attachments/assets/94245eda-29cf-44bd-aa4c-7c6508e816ab)
 
-![image.png](image%206.png)
