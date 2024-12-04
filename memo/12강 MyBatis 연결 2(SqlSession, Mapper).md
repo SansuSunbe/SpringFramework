@@ -3,7 +3,7 @@
 # Mapper 인식
 
 - mybatis-psring 체크
-- 
+  
 ![image](https://github.com/user-attachments/assets/80fab8e7-25f9-43fd-af82-bd14f992caa8)
 
 # myBatis_Mapper_Default_Code
