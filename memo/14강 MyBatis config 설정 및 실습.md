@@ -93,7 +93,7 @@ public class TestMapperTests {
 
 - config 폴더의 config.xml 파일에서 mappers 폴더 안에 있는 xml 파일의 resultType이 가진 긴 문장을 alias(별명)을 줌으로써 줄일 수 있다.
 
-![image.png](image.png)
+![image](https://github.com/user-attachments/assets/ddb428cc-e2d2-424d-94ce-2ee6aa1e7363)
 
 ## config 파일에서 SQL 속성하고 매칭되는 클래스에 alias를 부여
 
