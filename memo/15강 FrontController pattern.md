@@ -26,7 +26,7 @@ View는 실제 응답을 보내야하는 데이터를 HTML, JSP등을 이용해�
 6. (⑧).
 만들어진 응답 페이지를 DispatcherServlet을 통해 전송한다.
 
-![front-controller-pattern2.png](front-controller-pattern2.png)
+![front-controller-pattern2](https://github.com/user-attachments/assets/8b8758fb-2cf7-4438-9e62-73dde651b27a)
 
 # FrontController 패턴 특징
 
