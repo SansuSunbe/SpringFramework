@@ -2,13 +2,8 @@
 
 # FrontController 패턴(동작 원리)
 
-- HandlerMapping
-REQUEST	  ①	       ②↕		       ③		                 ④
-	          ↔	DispatcherServlet	↔   HandlerAdapter  ↔  Controller
-RESPONSE ⑧	   ⑥↕	↕⑤
-		         View      ViewResolver
-		           ⑦↕
-		         HTML, JSP 등
+![image](https://github.com/user-attachments/assets/17361fc7-a82b-4be3-8156-fc450291812f)
+
 1. (①).
 사용자의 Request는 Front-Controller인 DispatcherServlet을 통해 처리된다.
 2. (②, ③).
