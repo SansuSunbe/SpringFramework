@@ -191,7 +191,7 @@ public class BoardControllerTests {
 
 - 빈(Bean) 관리
     - 웹 애플리케이션에서 사용되는 모든 객체(빈)들을 관리하고, 필요한 곳에 주입
-- 웹 한경 정보 제공
+- 웹 환경 정보 제공
     - ServletContext와 같은 웹 환경 정보에 접근할 수 있는 메서드를 제공하여 웹 애플리케이션이 웹 환경과 상호작용할 수 있도록 도움
 - 웹 관련 빈 등록
     - DispatcherServlet과 같은 웹 관련 빈들을 등록하고 관리함
