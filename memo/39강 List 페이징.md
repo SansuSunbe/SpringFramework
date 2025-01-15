@@ -358,13 +358,13 @@ import com.example.board.service.BoardService;
 import lombok.extern.log4j.Log4j;
 
 /*
- * Task		   	URL				    	 Method		Parameter 	Form 		      URL이동
+ * Task		   	URL			 Method		Parameter 	Form 		URL이동
  * 
- * 전체 목록		/board/list			 GET						
- * 등록 처리 	/board/register	 POST		  모든 항목		입력화면 필요	이동
- * 조회			  /board/read			 GET			bno						
- * 삭제 처리		/board/remove		 GET			bno			    입력화면 필요	이동
- * 수정 처리		/board/modify		 POST		  모든 항목		입력화면 필요	이동
+ * 전체 목록		/board/list		GET						
+ * 등록 처리 		/board/register	 	POST		모든 항목	입력화면 필요	이동
+ * 조회			/board/read		GET		bno						
+ * 삭제 처리		/board/remove		GET		bno		입력화면 필요	이동
+ * 수정 처리		/board/modify		POST		모든 항목	입력화면 필요	이동
  * */
 
 @Controller
