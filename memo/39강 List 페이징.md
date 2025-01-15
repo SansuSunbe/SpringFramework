@@ -41,7 +41,7 @@
 
 # 페이징 처리 위한 데이터 복사
 
-- 한번 실행시킬 때 마다 입력된 데이터의 양이 기하급수적으로 늘어난다.
+- DB에서 한번 실행시킬 때 마다 입력된 데이터의 양이 기하급수적으로 늘어난다.
 
 ```sql
 INSERT INTO HR.TBL_BOARD
@@ -171,7 +171,7 @@ public interface BoardDAO {
 }
 ```
 
-- DAO 인터페이스를 구현한 클래스수정
+- DAO 인터페이스를 구현한 클래스 수정
 
 ```java
 package com.example.board.domain.dao;
